@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="github-pages-banner.png" alt="GitHub Pages Banner" width="600"/> </p>
+<p align="center"> <img src="github-pages-banne.jpg" alt="GitHub Pages Banner" width="600"/> </p>
 
 # 🌐 Host Your Static Website with GitHub Pages
 
@@ -89,40 +89,13 @@ https://your-username.github.io/your-repository/
 ## 📸  
 ![Live Website](output.png)
 
-## 💡 Pro Tips
+## 🌟 Features
 
-🔧 Feature
+- **Free Hosting** with GitHub Pages  
+- **Custom Domain** Support  
+- **Automatic Deployment** on Push  
+- **Secure HTTPS** by Default  
+- **No Server Setup Required**
 
-💬 Description
-
-🌍 Custom Domain
-
-Add your own domain in the Pages settings.
-
-🔒 Enforce HTTPS
-
-Always enable for secure browsing.
-
-🔄 Auto Updates
-
-Every push to `main` updates your live site instantly.
-
-🧪 Test Locally
-
-Use VS Code Live Server or open `index.html` in your browser before pushing.
-
-🖼️ Add Screenshots
-
-Use visuals in your README to guide beginners more effectively.
-
-----------
-
-Let me know if you'd like to add icons, color badges, or even collapsible sections to make it more interactive.
-
-## 📚 Resources for Beginners
-
--   📘 [GitHub Pages Documentation](https://docs.github.com/en/pages)
--   🧾 [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
--   💡 [HTML/CSS/JS Basics – MDN](https://developer.mozilla.org/en-US/)
 
 ----------

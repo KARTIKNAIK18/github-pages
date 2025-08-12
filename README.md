@@ -1,5 +1,8 @@
 
-<p align="center"> <img src="github-pages-banne.jpg" alt="GitHub Pages Banner" width="600"/> </p>
+<p align="center">
+  <img src="github-pages-banne.jpg" alt="GitHub Pages Banner" style="max-width: 100%; height: auto;" />
+</p>
+
 
 # 🌐 Host Your Static Website with GitHub Pages
 
